@@ -22,6 +22,7 @@ body{
     flex-direction: row;
     width: 80%;
     height: 100%;
+    font-family: 'inter';
     background-color: transparent;
     justify-content: space-evenly;
     margin-left: 10%;
