@@ -75,9 +75,9 @@ body{
 
 .text_header-superior{
     color: #ffff;
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin-left: 3rem;
-    font-family: 'Inter', sans-serif;
+    font-family: 'inter', sans-serif;
 }
 
 .title_header-superior{
