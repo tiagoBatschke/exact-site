@@ -82,6 +82,9 @@
     text-align: center;
 }
 
+.bold_topics{
+    font-weight: bold;
+}
 .card_content-container{
     height: 65%;
     width: 98%;
@@ -122,8 +125,40 @@
     font-size: 1.1rem;
     text-align: center;
     margin-top: 0.8rem;
-    font-weight: 500;
+  
     width: 70%;
     margin-left: 15%;
     font-family: 'Inter', sans-serif;
+}
+
+
+.packs_container-table{
+    background-color: #FFC700;
+    padding: 2rem;
+    width: 100%;
+    margin-left: -1rem;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.table_colunm{
+   border: 1px #000 solid;
+   
+}
+
+.title_table{
+
+    font-weight: bold;
+    padding: 0.3rem 1.3rem;
+    border-right: 1px #000 solid;
+}
+
+.text_table{
+    display: flex;
+    justify-content: center;
+}
+
+.table_packs{
+    background-color: #fff;
 }
