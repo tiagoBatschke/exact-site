@@ -97,3 +97,48 @@
     justify-content: space-evenly;
 }
 
+
+@media (min-width: 200px)  and   (max-width: 700px){
+    .contact_us{
+        background-image: url("../../img/Rectangle135.png");
+        height: 60vw;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .form_contact-container{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 80%;
+        background-color: transparent;
+        margin-left: 5%;
+        margin-right: 0%;
+        justify-content: space-evenly;
+    }
+
+    .input_contact-us{
+        background-color: #FFF;
+        width: 15.25rem;
+        height: 3rem;
+        margin-left: 0%;
+        border-radius: 15px;
+        
+    }
+
+    .button_input-contact{
+        height: 90%;
+        width: 23%;
+        background-color: #FFF;
+        border-radius: 15px;
+        border: none;
+        background-color: #FFC700;
+        color: #FFF;
+        margin-top: 0.15rem;
+    }
+}
+
