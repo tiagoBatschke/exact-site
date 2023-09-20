@@ -20,12 +20,12 @@ body{
 .navigation_topics{
     display: flex;
     flex-direction: row;
-    width: 80%;
+    width: 70%;
     height: 100%;
     font-family: 'inter';
     background-color: transparent;
-    justify-content: space-evenly;
-    margin-left: 10%;
+    justify-content: space-between;
+    margin-left: 15%;
     align-items: center;
 
 }
@@ -96,8 +96,8 @@ body{
 .header_superior-content-phone{
     display: flex;
     height: 100%;
-    width: 20%;
+    width: 25%;
     justify-content: space-between;
-    margin-left: 1rem;
+    margin-left: 35%;
     align-items: center;
 }
