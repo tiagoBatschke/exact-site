@@ -82,6 +82,12 @@
     font-size: 1.1rem;
     font-weight: bold;
     font-family: 'Inter', sans-serif;
+    text-decoration: none;
+}
+
+.text_contact-us:hover{
+    color: #ffc800af;
+    border-bottom: 1px #ffc800af solid;
 }
 
 .content_container-contact{
