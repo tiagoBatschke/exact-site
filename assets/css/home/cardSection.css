@@ -240,8 +240,9 @@
     .packs_container-table{
         background-color: #FFC700;
         padding: 2rem;
-        width: 100%;
-        margin-left: -1rem;
+        width: 80%;
+        margin-left: -0.3rem;
+
         margin-top: 2rem;
         display: flex;
         justify-content: center;
